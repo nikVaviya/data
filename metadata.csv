@@ -1,0 +1,405 @@
+sample_name,AGE,disease
+212444_1,11 weeks of gestation,control
+477841_1,11 weeks of gestation,control
+490522_1,12 weeks of gestation,control
+692077_2,19 weeks of gestation,control
+141956_2,13 weeks of gestation,control
+339444_1,12 weeks of gestation,control
+250475_1,12 weeks of gestation,control
+397120_1,12 weeks of gestation,control
+455697_1,12 weeks of gestation,control
+361175_1,9 weeks of gestation,pre-eclampsia
+309805_2,15 weeks of gestation,control
+194785_2,14 weeks of gestation,control
+166490_1,12 weeks of gestation,severe pre-eclampsia
+205623_2,13 weeks of gestation,control
+692077_1,7 weeks of gestation,control
+260786_1,11 weeks of gestation,pre-eclampsia
+133532_1,6 weeks of gestation,control
+320238_2,13 weeks of gestation,control
+406813_1,10 weeks of gestation,control
+472330_1,10 weeks of gestation,pre-eclampsia
+739041_4,0 weeks post-partum,severe pre-eclampsia
+739041_3,26 weeks of gestation,severe pre-eclampsia
+546738_4,0 weeks post-partum,pre-eclampsia
+546738_3,26 weeks of gestation,pre-eclampsia
+902180_4,1 weeks post-partum,control
+902180_3,26 weeks of gestation,control
+902180_2,20 weeks of gestation,control
+902180_1,12 weeks of gestation,control
+961389_3,27 weeks of gestation,control
+582739_4,1 weeks post-partum,control
+582739_3,24 weeks of gestation,control
+888987_4,0 weeks post-partum,control
+888987_3,28 weeks of gestation,control
+678649_1,6 weeks of gestation,control
+888987_2,19 weeks of gestation,control
+903837_3,27 weeks of gestation,control
+903837_2,17 weeks of gestation,control
+903837_1,11 weeks of gestation,control
+971241_4,2 weeks post-partum,control
+971241_3,29 weeks of gestation,control
+971241_2,18 weeks of gestation,control
+707861_2,16 weeks of gestation,control
+752820_4,1 weeks post-partum,control
+653512_4,1 weeks post-partum,control
+605858_4,0 weeks post-partum,control
+653512_3,28 weeks of gestation,control
+653512_2,18 weeks of gestation,control
+653512_1,11 weeks of gestation,control
+709690_4.1,0.5 weeks post-partum,control
+709690_4,0 weeks post-partum,control
+709690_3,27 weeks of gestation,control
+709690_2,16 weeks of gestation,control
+691160_3,24 weeks of gestation,control
+605858_3,26 weeks of gestation,control
+691160_1,12 weeks of gestation,control
+905498_2,17 weeks of gestation,control
+905498_1,8 weeks of gestation,control
+689440_4,0 weeks post-partum,control
+689440_3,32 weeks of gestation,control
+689440_2,16 weeks of gestation,control
+689440_1,11 weeks of gestation,control
+982023_3,28 weeks of gestation,control
+982023_2,18 weeks of gestation,control
+982023_1,10 weeks of gestation,control
+605858_2,16 weeks of gestation,control
+740015_3,26 weeks of gestation,control
+740015_1,9 weeks of gestation,control
+500915_3,29 weeks of gestation,control
+500915_2.1,17 weeks of gestation,control
+500915_2,13 weeks of gestation,control
+997717_4,0 weeks post-partum,control
+997717_3,28 weeks of gestation,control
+997717_2.1,16 weeks of gestation,control
+931746_2,16 weeks of gestation,control
+637549_3,27 weeks of gestation,control
+997717_2,14 weeks of gestation,control
+515494_1,8 weeks of gestation,pre-eclampsia
+637580_3,29 weeks of gestation,severe pre-eclampsia
+637580_1,9 weeks of gestation,severe pre-eclampsia
+835749_4,0 weeks post-partum,pre-eclampsia
+835749_3,25 weeks of gestation,pre-eclampsia
+835749_2,16 weeks of gestation,pre-eclampsia
+835749_1,10 weeks of gestation,pre-eclampsia
+890932_3,26 weeks of gestation,control
+890932_2,15 weeks of gestation,control
+931746_1.1,12 weeks of gestation,control
+890932_1,11 weeks of gestation,control
+825158_3,26 weeks of gestation,control
+825158_2,15 weeks of gestation,control
+825158_1,11 weeks of gestation,control
+858366_3,24 weeks of gestation,control
+858366_1,12 weeks of gestation,control
+520587_2.1,17 weeks of gestation,control
+520587_2,13 weeks of gestation,control
+571092_1,8 weeks of gestation,control
+565782_3,27 weeks of gestation,control
+565782_2,15 weeks of gestation,control
+897309_4,0 weeks post-partum,control
+605858_1,8 weeks of gestation,control
+897309_3,29 weeks of gestation,control
+897309_2,17 weeks of gestation,control
+897309_1,10 weeks of gestation,control
+702116_4,0 weeks post-partum,control
+702116_3,27 weeks of gestation,control
+702116_2,16 weeks of gestation,control
+702116_1,9 weeks of gestation,control
+683266_4,0 weeks post-partum,control
+683266_3,27 weeks of gestation,control
+683266_2,15 weeks of gestation,control
+931746_3,26 weeks of gestation,control
+683266_1,8 weeks of gestation,control
+930841_3,26 weeks of gestation,control
+930841_2,18 weeks of gestation,control
+930841_1,12 weeks of gestation,control
+839621_4,0 weeks post-partum,severe pre-eclampsia
+839621_3,33 weeks of gestation,severe pre-eclampsia
+839621_1,8 weeks of gestation,severe pre-eclampsia
+662256_3,26 weeks of gestation,pre-eclampsia
+565234_4,1 weeks post-partum,pre-eclampsia
+565234_2,17 weeks of gestation,pre-eclampsia
+862314_4,1 weeks post-partum,control
+862314_3,26 weeks of gestation,control
+862314_2,15 weeks of gestation,control
+862314_1,12 weeks of gestation,control
+947956_4,1 weeks post-partum,control
+947956_3,24 weeks of gestation,control
+947956_2,18 weeks of gestation,control
+947956_1,11 weeks of gestation,control
+662256_2,15 weeks of gestation,pre-eclampsia
+523257_3,27 weeks of gestation,pre-eclampsia
+523257_1,11 weeks of gestation,pre-eclampsia
+773626_4,0 weeks post-partum,pre-eclampsia
+773626_3,25 weeks of gestation,pre-eclampsia
+773626_2,17 weeks of gestation,pre-eclampsia
+777827_4,2 weeks post-partum,severe pre-eclampsia
+777827_3,25 weeks of gestation,severe pre-eclampsia
+777827_2,17 weeks of gestation,severe pre-eclampsia
+777827_1,12 weeks of gestation,severe pre-eclampsia
+662256_1,5 weeks of gestation,pre-eclampsia
+826701_4,1 weeks post-partum,control
+944838_4,1 weeks post-partum,control
+944838_3,25 weeks of gestation,control
+931746_1,9 weeks of gestation,control
+944838_2,18 weeks of gestation,control
+944838_1,11 weeks of gestation,control
+888980_3,25 weeks of gestation,control
+550205_4,2 weeks post-partum,severe pre-eclampsia
+550205_3,26 weeks of gestation,severe pre-eclampsia
+960203_4,1 weeks post-partum,control
+783236_4,0 weeks post-partum,pre-eclampsia
+783236_1,12 weeks of gestation,pre-eclampsia
+737184_4,1 weeks post-partum,severe pre-eclampsia
+737184_2.1,16 weeks of gestation,severe pre-eclampsia
+662256_4,0 weeks post-partum,pre-eclampsia
+737184_2,13 weeks of gestation,severe pre-eclampsia
+809660_3,24 weeks of gestation,severe pre-eclampsia
+809660_1,11 weeks of gestation,severe pre-eclampsia
+680949_3,24 weeks of gestation,severe pre-eclampsia
+680949_2,18 weeks of gestation,severe pre-eclampsia
+787693_3,28 weeks of gestation,control
+787693_2,15 weeks of gestation,control
+723691_4,2 weeks post-partum,severe pre-eclampsia
+723691_3,26 weeks of gestation,severe pre-eclampsia
+773477_4,0 weeks post-partum,control
+773477_3,26 weeks of gestation,control
+773477_2,16 weeks of gestation,control
+773477_1,10 weeks of gestation,control
+586898_4,0 weeks post-partum,control
+586898_2,18 weeks of gestation,control
+906787_4,0 weeks post-partum,control
+549101_3,25 weeks of gestation,control
+906787_3,25 weeks of gestation,control
+906787_1,10 weeks of gestation,control
+788006_4,0 weeks post-partum,pre-eclampsia
+788006_3,26 weeks of gestation,pre-eclampsia
+788006_2,15 weeks of gestation,pre-eclampsia
+698019_4,0 weeks post-partum,control
+698019_1,12 weeks of gestation,control
+827529_4,0 weeks post-partum,pre-eclampsia
+334129_1,9 weeks of gestation,control
+261268_2,16 weeks of gestation,pre-eclampsia
+159918_2,14 weeks of gestation,severe pre-eclampsia
+253823_1,12 weeks of gestation,control
+827529_2,16 weeks of gestation,pre-eclampsia
+549101_1,7 weeks of gestation,control
+235246_2,14 weeks of gestation,control
+108445_1,11 weeks of gestation,control
+169395_1,11 weeks of gestation,control
+339832_2,16 weeks of gestation,control
+434662_2,16 weeks of gestation,control
+401187_2,14 weeks of gestation,control
+301419_1,9 weeks of gestation,pre-eclampsia
+412304_2,13 weeks of gestation,severe pre-eclampsia
+195443_1,12 weeks of gestation,control
+161584_1,11 weeks of gestation,control
+946772_4,0 weeks post-partum,control
+384886_2,15 weeks of gestation,control
+349246_1,11 weeks of gestation,pre-eclampsia
+457230_2,16 weeks of gestation,control
+464537_2,16 weeks of gestation,control
+349246_2,15 weeks of gestation,pre-eclampsia
+454195_2,13 weeks of gestation,control
+406636_1,8 weeks of gestation,control
+316949_1,11 weeks of gestation,control
+147354_2,13 weeks of gestation,pre-eclampsia
+450582_2,13 weeks of gestation,severe pre-eclampsia
+946772_3,26 weeks of gestation,control
+418624_2,13 weeks of gestation,severe pre-eclampsia
+331344_2,13 weeks of gestation,pre-eclampsia
+267586_1,11 weeks of gestation,pre-eclampsia
+826701_3,27 weeks of gestation,control
+826701_1,11 weeks of gestation,control
+743122_4,2 weeks post-partum,control
+743122_3,26 weeks of gestation,control
+743122_1,11 weeks of gestation,control
+939512_3,25 weeks of gestation,control
+939512_2.1,16 weeks of gestation,control
+939512_2,13 weeks of gestation,control
+615064_4,1 weeks post-partum,control
+706816_3,39 weeks of gestation,control
+615064_3,29 weeks of gestation,control
+615064_2,18 weeks of gestation,control
+615064_1,10 weeks of gestation,control
+594098_4,2 weeks post-partum,control
+594098_2,15 weeks of gestation,control
+594098_1,11 weeks of gestation,control
+737046_4,1 weeks post-partum,severe pre-eclampsia
+737046_3,27 weeks of gestation,severe pre-eclampsia
+737046_2,16 weeks of gestation,severe pre-eclampsia
+737046_1,11 weeks of gestation,severe pre-eclampsia
+706816_1,8 weeks of gestation,control
+943952_4,1 weeks post-partum,severe pre-eclampsia
+943952_3,24 weeks of gestation,severe pre-eclampsia
+943952_2,16 weeks of gestation,severe pre-eclampsia
+267586_2,15 weeks of gestation,pre-eclampsia
+229182_1,11 weeks of gestation,control
+405912_2,14 weeks of gestation,control
+455648_1,11 weeks of gestation,control
+293901_1,12 weeks of gestation,control
+167961_1,12 weeks of gestation,severe pre-eclampsia
+295748_1,8 weeks of gestation,severe pre-eclampsia
+946772_2,16 weeks of gestation,control
+393370_2,13 weeks of gestation,severe pre-eclampsia
+141218_1,11 weeks of gestation,control
+330152_1,12 weeks of gestation,severe pre-eclampsia
+469006_2,13 weeks of gestation,severe pre-eclampsia
+475571_1,11 weeks of gestation,pre-eclampsia
+209564_1,11 weeks of gestation,pre-eclampsia
+410199_1,12 weeks of gestation,severe pre-eclampsia
+262245_1,12 weeks of gestation,severe pre-eclampsia
+178534_1,12 weeks of gestation,severe pre-eclampsia
+254685_1,12 weeks of gestation,control
+946772_1,11 weeks of gestation,control
+170689_1,12 weeks of gestation,control
+230843_2,13 weeks of gestation,control
+184204_1,11 weeks of gestation,control
+133247_1,10 weeks of gestation,pre-eclampsia
+121329_2,15 weeks of gestation,control
+149589_1,9 weeks of gestation,control
+319860_2,13 weeks of gestation,control
+346539_1,10 weeks of gestation,control
+103651_1,12 weeks of gestation,control
+265479_2,16 weeks of gestation,pre-eclampsia
+692077_4,0 weeks post-partum,control
+291886_1,11 weeks of gestation,control
+456050_1,11 weeks of gestation,control
+122540_2,13 weeks of gestation,control
+490545_1,10 weeks of gestation,control
+138919_1,10 weeks of gestation,control
+415120_1,10 weeks of gestation,control
+313204_2,13 weeks of gestation,control
+253665_1,9 weeks of gestation,control
+197072_2,13 weeks of gestation,control
+328020_1,12 weeks of gestation,control
+443078_1,8 weeks of gestation,control
+255058_2,13 weeks of gestation,control
+277408_1,9 weeks of gestation,control
+480303_1,9 weeks of gestation,control
+485310_1,11 weeks of gestation,control
+294171_1,12 weeks of gestation,control
+406755_1,11 weeks of gestation,control
+546738_2.1,16 weeks of gestation,pre-eclampsia
+520109_4,0 weeks post-partum,control
+546738_2,13 weeks of gestation,pre-eclampsia
+915027_3,26 weeks of gestation,control
+915027_2,15 weeks of gestation,control
+915027_1,12 weeks of gestation,control
+501143_4,0 weeks post-partum,control
+501143_2,15 weeks of gestation,control
+501143_1,11 weeks of gestation,control
+525989_4,4 weeks post-partum,control
+525989_2,16 weeks of gestation,control
+525989_1,11 weeks of gestation,control
+520109_3,25 weeks of gestation,control
+637549_4,0 weeks post-partum,control
+569467_2.1,17 weeks of gestation,severe pre-eclampsia
+569467_2,13 weeks of gestation,severe pre-eclampsia
+629773_2,20 weeks of gestation,control
+629773_1,10 weeks of gestation,control
+674547_3,25 weeks of gestation,pre-eclampsia
+674547_2,18 weeks of gestation,pre-eclampsia
+674547_1,10 weeks of gestation,pre-eclampsia
+884755_2,15 weeks of gestation,control
+557409_4,2 weeks post-partum,control
+765128_4,0 weeks post-partum,control
+520109_2,18 weeks of gestation,control
+765128_1,11 weeks of gestation,control
+512025_4,0 weeks post-partum,control
+512025_2,15 weeks of gestation,control
+512025_1,11 weeks of gestation,control
+597312_4,0 weeks post-partum,severe pre-eclampsia
+597312_3,25 weeks of gestation,severe pre-eclampsia
+597312_2,16 weeks of gestation,severe pre-eclampsia
+813805_4,0 weeks post-partum,pre-eclampsia
+813805_3,25 weeks of gestation,pre-eclampsia
+678649_3,39 weeks of gestation,control
+813805_2,18 weeks of gestation,pre-eclampsia
+813805_1,11 weeks of gestation,pre-eclampsia
+631489_4,1 weeks post-partum,pre-eclampsia
+631489_3,28 weeks of gestation,pre-eclampsia
+631489_2,15 weeks of gestation,pre-eclampsia
+631489_1,11 weeks of gestation,pre-eclampsia
+508691_3,24 weeks of gestation,control
+814701_2.1,16 weeks of gestation,control
+814701_2,13 weeks of gestation,control
+690247_4,1 weeks post-partum,control
+678649_2,15 weeks of gestation,control
+690247_2,15 weeks of gestation,control
+625950_1,8 weeks of gestation,pre-eclampsia
+852717_4,0 weeks post-partum,severe pre-eclampsia
+852717_3,24 weeks of gestation,severe pre-eclampsia
+852717_2,17 weeks of gestation,severe pre-eclampsia
+505372_3,26 weeks of gestation,control
+505372_2,15 weeks of gestation,control
+505372_1,10 weeks of gestation,control
+740596_3,25 weeks of gestation,control
+740596_2,18 weeks of gestation,control
+872878_4,0 weeks post-partum,control
+703998_2,18 weeks of gestation,control
+872878_3,24 weeks of gestation,control
+872878_2,15 weeks of gestation,control
+872878_1,10 weeks of gestation,control
+579493_4,0 weeks post-partum,control
+579493_3,29 weeks of gestation,control
+579493_2,15 weeks of gestation,control
+579493_1,9 weeks of gestation,control
+792176_4,0 weeks post-partum,control
+792176_2,15 weeks of gestation,control
+792176_1,9 weeks of gestation,control
+988719_4,0 weeks post-partum,control
+988719_2,16 weeks of gestation,control
+988719_1,8 weeks of gestation,control
+664041_4,0 weeks post-partum,pre-eclampsia
+664041_3,26 weeks of gestation,pre-eclampsia
+664041_2,17 weeks of gestation,pre-eclampsia
+695492_4,0 weeks post-partum,severe pre-eclampsia
+695492_3,33 weeks of gestation,severe pre-eclampsia
+695492_2,15 weeks of gestation,severe pre-eclampsia
+636361_4,0 weeks post-partum,control
+856650_3,25 weeks of gestation,control
+636361_3,26 weeks of gestation,control
+636361_1,11 weeks of gestation,control
+972839_4,0 weeks post-partum,control
+972839_2,15 weeks of gestation,control
+972839_1,8 weeks of gestation,control
+534069_4,0 weeks post-partum,control
+534069_2,15 weeks of gestation,control
+534069_1,11 weeks of gestation,control
+965096_3,25 weeks of gestation,control
+965096_1,8 weeks of gestation,control
+856650_2,16 weeks of gestation,control
+783078_4,1 weeks post-partum,control
+783078_2,17 weeks of gestation,control
+783078_1,8 weeks of gestation,control
+943952_1,11 weeks of gestation,severe pre-eclampsia
+786768_3,24 weeks of gestation,control
+786768_2,16 weeks of gestation,control
+786768_1,11 weeks of gestation,control
+668974_4.1,1 weeks post-partum,control
+668974_4,0 weeks post-partum,control
+668974_3,26 weeks of gestation,control
+703998_3.1,37 weeks of gestation,control
+668974_2,17 weeks of gestation,control
+668974_1,10 weeks of gestation,control
+928186_1,8 weeks of gestation,control
+896869_1,11 weeks of gestation,control
+977018_3,25 weeks of gestation,severe pre-eclampsia
+977018_1,11 weeks of gestation,severe pre-eclampsia
+663288_3,26 weeks of gestation,control
+663288_1,10 weeks of gestation,control
+625950_3,25 weeks of gestation,pre-eclampsia
+703998_3,26 weeks of gestation,control
+782752_4,0 weeks post-partum,control
+782752_3,27 weeks of gestation,control
+709690_1,11 weeks of gestation,control
+691160_2,17 weeks of gestation,control
+565782_4,0 weeks post-partum,control
+523257_2,16 weeks of gestation,pre-eclampsia
+723691_2,13 weeks of gestation,severe pre-eclampsia
+827529_3,23 weeks of gestation,pre-eclampsia
+692077_3,25 weeks of gestation,control
+765128_2,16 weeks of gestation,control
+856650_3.1,38 weeks of gestation,control
+663288_4,0 weeks post-partum,control
